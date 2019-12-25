@@ -5,6 +5,7 @@ import (
 	"go-ADT/model"
 )
 
+// NOTE: https://eli.thegreenplace.net/2018/go-and-algebraic-data-types/
 func main() {
 	data := mapping()
 	checkingADT(data)
